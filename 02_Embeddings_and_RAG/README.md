@@ -5,7 +5,7 @@
      height="auto"/>
 </p>
 
-## <h1 align="center" id="heading">Session 2: Pythonic RAG</h1>
+## <h1 align="center" id="heading">Session 2: Embeddings and RAG</h1>
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/AIE5/00_AIM_Quicklinks)
 
