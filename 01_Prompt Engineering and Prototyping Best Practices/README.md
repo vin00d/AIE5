@@ -53,6 +53,15 @@ This "vibe check" now serves as a baseline, of sorts, to help understand what ho
 Please make adjustments to your application that you believe will improve the vibe check done above, push the changes to your HF Space and redo the above vibe check.
 
 > NOTE: You may reach for improving the model, changing the prompt, or any other method.
+**Answer** - Made the following updates to the app:
+- Changed model to `gpt-4o` (from `gpt-3.5-turbo`)
+    - Answers show marked improvement in quality, line of thinking and formatting.
+    - For example in the robot story it listed the various scenes in one of the answers.
+    - For Math, there is an attempt to format in `LaTeX`.
+- Changed `temperature` to `0.7` (from `0`)
+    - Answers are markedly different from each other in each try.
+- Added `Try and list a few references to support your answer, but ensure that you do not make up references.` to the `user_prompt` to see if it can generate references.
+    - Its adding references where possible, for example in the imaginative story about the robot, it referenced inspiration from `WALL-E` and `The Iron Giant` movies.
 
 ### A Note on Vibe Checking
 
@@ -63,3 +72,12 @@ In essence, it's a first look to ensure your system isn't experiencing catastrop
 ##### 🧑‍🤝‍🧑❓ Discussion Question #1:
 
 What are some limitations of vibe checking as an evaluation tool?
+
+**Answer** - Asked the app to list out the limitations of vibe checking as an evaluation tool, got the following points in response.
+- Subjectivity and Lack of Consistency
+- Lack of Quantitative Data
+- Bias and Influence of Preconceptions
+- Limited Diagnostic Capability
+- Inadequacy for Complex Applications
+
+And the fact that it could not find any specific academic references to support its answer.
