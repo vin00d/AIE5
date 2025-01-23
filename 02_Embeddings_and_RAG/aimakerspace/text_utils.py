@@ -36,6 +36,31 @@ class TextFileLoader:
         return self.documents
 
 
+class PDFLoader:
+    def __init__(self, path: str):
+        self.documents = []
+        self.path = path
+
+    def load(self):
+        if not self.path.endswith('.pdf'):
+            raise ValueError("Provided file is not a PDF file.")
+        
+        try:
+            import PyPDF2
+            with open(self.path, 'rb') as file:
+                pdf_reader = PyPDF2.PdfReader(file)
+                text = ""
+                for page in pdf_reader.pages:
+                    text += page.extract_text()
+                self.documents.append(text)
+        except Exception as e:
+            raise ValueError(f"Error reading PDF file: {str(e)}")
+
+    def load_documents(self):
+        self.load()
+        return self.documents
+
+
 class CharacterTextSplitter:
     def __init__(
         self,
