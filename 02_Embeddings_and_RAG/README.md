@@ -11,7 +11,7 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 2: Pre-Work](https://www.notion.so/Session-2-Embeddings-Retrieval-Augmented-Generation-RAG-177cd547af3d80249224e8bbb97975e8?pvs=4#17bcd547af3d8052a52ff57ed804c10e)| [Session 2: Embeddings, Retrieval Augmented Generation (RAG)](https://www.notion.so/Session-2-Embeddings-Retrieval-Augmented-Generation-RAG-177cd547af3d80249224e8bbb97975e8) | Coming Soon! | Coming Soon! | You are here! | Coming Soon!| [AIE5 Feedback 1/16](https://forms.gle/32ndL9bWfJcYUQBJ8)
+| [Session 2: Pre-Work](https://www.notion.so/Session-2-Embeddings-Retrieval-Augmented-Generation-RAG-177cd547af3d80249224e8bbb97975e8?pvs=4#17bcd547af3d8052a52ff57ed804c10e)| [Session 2: Embeddings, Retrieval Augmented Generation (RAG)](https://www.notion.so/Session-2-Embeddings-Retrieval-Augmented-Generation-RAG-177cd547af3d80249224e8bbb97975e8) | [Recording](https://us02web.zoom.us/rec/share/UREOrwkbTnzfP4Ioje3vkVZ8vwM7aEL9JuEUjsCfAzDmcWQA173yK6vBhgyZdG5v.Fl-Fx1p09lj9a0dp) (6Na+C=n*) | [Session 2: Embeddings and RAG](https://www.canva.com/design/DAGcIaWlD3Y/OVppx6upOv0t0d97oVdacw/view?utm_content=DAGcIaWlD3Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd5aef0130e) | You are here!| [Session 2: Embeddings & RAG](https://forms.gle/YaM6t7TTt63UtqCo7) | [AIE5 Feedback 1/16](https://forms.gle/32ndL9bWfJcYUQBJ8) |
 
 
 ### Outline:
