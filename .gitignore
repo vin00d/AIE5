@@ -1,2 +1,8 @@
-*/.DS_Store
-*.DS_Store
+# ignore all .DS_Store files anywhere in the repo
+**/.DS_Store
+
+# .env files anywhere in the repo
+**/.env
+
+# ignore all .ipynb_checkpoints files anywhere in the repo
+**/.ipynb_checkpoints
