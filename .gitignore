@@ -6,3 +6,9 @@
 
 # ignore all .ipynb_checkpoints files anywhere in the repo
 **/.ipynb_checkpoints
+
+# data folder and its contents anywhere in the repo
+**/data
+
+# ignore wandb folder and its contents anywhere in the repo
+**/wandb
